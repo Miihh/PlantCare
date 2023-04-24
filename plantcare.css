@@ -1,0 +1,45 @@
+.homepage-title {
+    color: white;
+    font-size: 40px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./resurse/background\ leaves.jpg);
+}
+
+.leaves-logo {
+    width: 200px;
+    height: 200px;
+    color: aliceblue;
+}
+
+.title-section {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.form-text {
+    color: white;
+}
+
+.homepage-buttons-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign-up {
+    color: rgb(65, 231, 10);
+}
+
+.sign-up-form {
+    display: none;
+}
+
